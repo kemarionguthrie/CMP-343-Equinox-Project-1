@@ -130,3 +130,26 @@ flowchart LR
 What am I still unsure about? What do I need to figure out or test first?
 I'm unsure how consistently the code may work if I keep adding or adjusting the HTMLs. I want to see the HTMLs work together instead of crashing. 
 
+My Code Screenshots:
+<img width="613" height="374" alt="image" src="https://github.com/user-attachments/assets/8efe2420-f342-4fba-ac53-b8b6c656bd3b" />
+
+<img width="826" height="429" alt="image" src="https://github.com/user-attachments/assets/b5005431-8cf7-4dbd-94a4-cec3f944262f" />
+
+NotePad:
+<img width="334" height="434" alt="image" src="https://github.com/user-attachments/assets/48d8ec6c-25a8-42c4-9464-01d35bf51fe4" />
+
+<img width="227" height="401" alt="image" src="https://github.com/user-attachments/assets/31bf6058-f54b-445c-a139-dbf5fac5a042" />
+
+<img width="602" height="394" alt="image" src="https://github.com/user-attachments/assets/72e027aa-a7c5-41f5-bab7-aafe7e2411fc" />
+
+<img width="400" height="418" alt="image" src="https://github.com/user-attachments/assets/98d29341-6fd9-4d65-8c06-b27bf9170073" />
+
+<img width="495" height="407" alt="image" src="https://github.com/user-attachments/assets/cf559cf4-b242-4b5b-b6df-380651185b13" />
+
+<img width="332" height="160" alt="image" src="https://github.com/user-attachments/assets/043f3434-53cb-47fe-9062-9fa9f57a65b7" />
+
+
+
+
+
+
