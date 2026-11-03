@@ -131,8 +131,11 @@ What am I still unsure about? What do I need to figure out or test first?
 I'm unsure how consistently the code may work if I keep adding or adjusting the HTMLs. I want to see the HTMLs work together instead of crashing. 
 
 My Code Screenshots:
+
+Main Page:
 <img width="613" height="374" alt="image" src="https://github.com/user-attachments/assets/8efe2420-f342-4fba-ac53-b8b6c656bd3b" />
 
+Reminder:
 <img width="826" height="429" alt="image" src="https://github.com/user-attachments/assets/b5005431-8cf7-4dbd-94a4-cec3f944262f" />
 
 NotePad:
@@ -147,6 +150,15 @@ NotePad:
 <img width="495" height="407" alt="image" src="https://github.com/user-attachments/assets/cf559cf4-b242-4b5b-b6df-380651185b13" />
 
 <img width="332" height="160" alt="image" src="https://github.com/user-attachments/assets/043f3434-53cb-47fe-9062-9fa9f57a65b7" />
+
+Main Page (Browser):
+<img width="412" height="263" alt="image" src="https://github.com/user-attachments/assets/45eb370a-876a-446c-a750-1701207e412d" />
+
+Notepad (Browser):
+<img width="431" height="385" alt="image" src="https://github.com/user-attachments/assets/fd41882b-3dac-4d91-93ef-edf9414ac50b" />
+
+Reminder (Browser):
+<img width="413" height="158" alt="image" src="https://github.com/user-attachments/assets/cf824768-1de0-4e2c-9dcc-f583f581f769" />
 
 
 
